@@ -58,7 +58,7 @@ module "module" {
 
 ## Share the Love
 
-Like this project? 
+Like this project?
 Please give it a ★ on [our GitHub](https://github.com/enter-at/terraform-module-template)!
 
 
@@ -128,11 +128,12 @@ See [LICENSE](LICENSE) for full details.
 
 ### Contributors
 
-|  [![Steffen Leistner][sleistner_avatar]][sleistner_homepage]<br/>[Steffen Leistner][sleistner_homepage] |
-|---|
+
+[![Steffen Leistner][sleistner_avatar]][sleistner_homepage]
+
 
   [sleistner_homepage]: https://github.com/sleistner
-  [sleistner_avatar]: https://res.cloudinary.com/enter-at/image/fetch/w_100,h_100,c_thumb/https://github.com/sleistner.png
+  [sleistner_avatar]: https://res.cloudinary.com/enter-at/image/fetch/f_png,r_max,w_100,h_100,c_thumb/https://github.com/sleistner.png
 
 
 
