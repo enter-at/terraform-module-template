@@ -49,11 +49,27 @@ module "module" {
 
 
 
+## Requirements
+
+| Name | Version |
+|------|---------|
+| terraform | ~> 0.12.0 |
+
+## Providers
+
+| Name | Version |
+|------|---------|
+| null | n/a |
+
 ## Inputs
 
 | Name | Description | Type | Default | Required |
-|------|-------------|:----:|:-----:|:-----:|
-| enabled | (Optional) Set whether to enable the module. Defaults to true. | bool | `true` | no |
+|------|-------------|------|---------|:--------:|
+| enabled | (Optional) Set whether to enable the module. Defaults to true. | `bool` | `true` | no |
+
+## Outputs
+
+No output.
 
 
 
@@ -130,9 +146,7 @@ See [LICENSE](LICENSE) for full details.
 
 ### Contributors
 
-
 [![Steffen Leistner][sleistner_avatar]][sleistner_homepage]
-
 
   [sleistner_homepage]: https://github.com/sleistner
   [sleistner_avatar]: https://res.cloudinary.com/enter-at/image/fetch/f_png,r_max,w_100,h_100,c_thumb/https://github.com/sleistner.png
