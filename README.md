@@ -49,6 +49,7 @@ module "module" {
 
 
 
+<!-- markdownlint-disable -->
 ## Requirements
 
 | Name | Version |
@@ -71,6 +72,7 @@ module "module" {
 
 No output.
 
+<!-- markdownlint-restore -->
 
 
 
