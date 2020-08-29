@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 ## Requirements
 
 | Name | Version |
@@ -20,3 +21,4 @@
 
 No output.
 
+<!-- markdownlint-restore -->
